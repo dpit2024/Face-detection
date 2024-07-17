@@ -71,3 +71,16 @@
 
 <br />
 
+## Contributing
+
+Feel free to contribute to this project by opening an issue or submitting a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+**Contact Me:**
+
+[Email](mailto:dheerajpyasi101@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dheeraj-pyasi-6a319a247/) | [GitHub](https://github.com/dpit2024)
