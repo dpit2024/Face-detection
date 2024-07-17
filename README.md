@@ -49,7 +49,7 @@
 
 ## Guide
 - Clone this repository.
-  -`git clone https://github.com/dpit2024/HumanDetection
+  -`git clone https://github.com/dpit2024/Face-detection.git
 `
 - Install requirements using:
     - `pip install -r requirements.txt`
